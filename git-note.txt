@@ -1,0 +1,3 @@
+git init = git initialization
+git status = ဘယ်fileကို ဘာလုပ်ထားလဲကြည်.တာ
+git branch = show all branch 
